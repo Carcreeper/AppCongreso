@@ -23,7 +23,7 @@ public class Charla : MonoBehaviour
 	{
 		if (datos != null)
 		{
-            Inicializar(datos.imagen, datos.nombre, datos.descipcion + "\n" + datos.hora + " - " + datos.Lugar);
+            Inicializar(datos.imagen, datos.nombre, datos.descipcion + "\n" + datos.hora + " / " + datos.Lugar);
 		}
 	}
 
@@ -37,6 +37,6 @@ public class Charla : MonoBehaviour
 
 	public void CargarPreview()
 	{
-		UIDetalleCharla.singleton.Previsualizar(datos);
+		UIDetalleCharla.singleton.Previsualizar(datos); 
 	}
 }

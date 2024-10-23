@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
-  m_Name: Charla
+  m_Name: Charla 2
   m_EditorClassIdentifier: 
   imagen: {fileID: -865570267, guid: c8d11f6b77f09754ba39380246ba8cd8, type: 3}
-  nombre: Charla sobre dormir bien
-  descipcion: "Experto en sue\xF1os"
+  nombre: Respuestas de 827
+  descipcion: "Se encontr\xF3 una corelaci\xF3n entre el estr\xE9s y las pesadillas"
   hora: 8:00 10:00 AM
-  Lugar: 14 - 213
+  Lugar: Teatro

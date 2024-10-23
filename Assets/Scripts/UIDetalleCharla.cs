@@ -15,9 +15,22 @@ public class UIDetalleCharla : MonoBehaviour
 
     public static UIDetalleCharla singleton;
 
-	private void Awake()
+    public ScObjCharla[] charlas;
+    public GameObject prCharla;
+    public Transform padre;
+
+    private void Awake()
 	{
         singleton = this;
+	}
+
+	private void Start()
+	{
+		for (int i = 0; i < charlas.Length; i++)
+		{
+            GameObject go = Instantiate(prCharla, padre);
+            go.GetComponent<Charla>().Inicializar(charlas[i]);
+		}
 	}
 
 	public void Previsualizar(ScObjCharla cual)
