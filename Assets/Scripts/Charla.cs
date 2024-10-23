@@ -34,4 +34,9 @@ public class Charla : MonoBehaviour
 
         imPrevia.sprite = previa;
 	}
+
+	public void CargarPreview()
+	{
+		UIDetalleCharla.singleton.Previsualizar(datos);
+	}
 }
