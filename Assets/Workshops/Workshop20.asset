@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop20
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: e8da8466724b7b745928198703534a7a, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: Economia para la Pipol
+  descipcion: "Hablamos de econom\xEDa sin llorar"
   hora: 
-  Lugar: 
+  Lugar: Bloque 11, auditorio 2

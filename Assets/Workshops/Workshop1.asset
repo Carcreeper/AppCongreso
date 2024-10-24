@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop1
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: 1ab31eec4f834124e94961616053e6fb, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: "C\xE9sar Giraldo"
+  descipcion: "Hablar en p\xFAblico"
   hora: 
-  Lugar: 
+  Lugar: Bloque 12, auditorio 2

@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Workshop3
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: 1ab31eec4f834124e94961616053e6fb, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: LCM
+  descipcion: "Dise\xF1ar investigaciones en comunicaci\xF3n estrat\xE9gica de alto
+    impacto"
   hora: 
-  Lugar: 
+  Lugar: Bloque 11, auditorio 1

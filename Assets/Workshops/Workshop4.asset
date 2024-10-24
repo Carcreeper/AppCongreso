@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop4
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: e8da8466724b7b745928198703534a7a, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: Orion Vargas
+  descipcion: El ABC de la IA
   hora: 
-  Lugar: 
+  Lugar: Bloque 12, auditorio 1

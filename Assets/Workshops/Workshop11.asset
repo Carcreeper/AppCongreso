@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop11
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: e8da8466724b7b745928198703534a7a, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: Melisa Tamayo
+  descipcion: 'KIT de prensa. Kit de Medios '
   hora: 
-  Lugar: 
+  Lugar: "Sal\xF3n 10-111 (Tipo taller)"
