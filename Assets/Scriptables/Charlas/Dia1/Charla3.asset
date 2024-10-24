@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
+  m_Name: Charla3
+  m_EditorClassIdentifier: 
+  imagen: {fileID: 21300000, guid: ab75fbb7393fa6e40b21403d9776451e, type: 3}
+  nombre: 'Jhon Canela: Hackeando el exito'
+  descipcion: "Es un investigador de seguridad cibern\xE9tica y experto en forensia
+    digital con m\xE1s de 10 a\xF1os de experiencia en el campo, donde ha trabajado
+    en diversas organizaciones, incluyendo empresas de seguridad cibern\xE9tica y
+    agencias gubernamentales. Es especialista en respuesta a incidentes, an\xE1lisis
+    de malware, forensia de dispositivos m\xF3viles, redes y recuperaci\xF3n de datos.
+    Ha publicado art\xEDculos y presentado conferencias sobre temas de seguridad
+    cibern\xE9tica. Su mayor enfoque es la Inform\xE1tica Forense y Respuesta a Incidentes."
+  hora: 14:00 15:00 PM
+  Lugar: 

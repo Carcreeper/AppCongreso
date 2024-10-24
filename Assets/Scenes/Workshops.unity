@@ -826,12 +826,28 @@ MonoBehaviour:
   gmDetalle: {fileID: 1530652284}
   objetoActual: {fileID: 0}
   charlas:
-  - {fileID: 11400000, guid: 5240a2c1d5eea534bb89ca4d08d4fba2, type: 2}
-  - {fileID: 11400000, guid: deec880e7dc66914d83a8dce8ffb2a5b, type: 2}
-  - {fileID: 11400000, guid: 465ec2df5ab56fa409a441fd7ed00ea3, type: 2}
-  - {fileID: 11400000, guid: 5240a2c1d5eea534bb89ca4d08d4fba2, type: 2}
-  - {fileID: 11400000, guid: 465ec2df5ab56fa409a441fd7ed00ea3, type: 2}
-  - {fileID: 11400000, guid: deec880e7dc66914d83a8dce8ffb2a5b, type: 2}
+  - {fileID: 11400000, guid: 4f8ac98ce0cfe15488684d34af069d6f, type: 2}
+  - {fileID: 11400000, guid: ae828b6bcdb5abd4eb4f2c5dd8cf3ccc, type: 2}
+  - {fileID: 11400000, guid: ea90a30afc2c80440b70963936901923, type: 2}
+  - {fileID: 11400000, guid: 58d05e1f0211a754b82503ee4f900c15, type: 2}
+  - {fileID: 11400000, guid: 4f7ff8d724e671545a62cbaac6f7ba77, type: 2}
+  - {fileID: 11400000, guid: 02ee4be88c826b646ab7a677a5db3adc, type: 2}
+  - {fileID: 11400000, guid: fc51d3c27f34f4b4facddb36d3d91b4c, type: 2}
+  - {fileID: 11400000, guid: b3fbb62c24cadfb45ad4de174bae87e3, type: 2}
+  - {fileID: 11400000, guid: 9988e74bd0d4e04438742b98a3a0bfbe, type: 2}
+  - {fileID: 11400000, guid: 80b0762591391564f8553a2e0a181057, type: 2}
+  - {fileID: 11400000, guid: b32824295d664bb47910dcf1a181b675, type: 2}
+  - {fileID: 11400000, guid: 651e8ec4a424081419a1760deaea89c2, type: 2}
+  - {fileID: 11400000, guid: b5334d3020f358949b3ddebc07602f40, type: 2}
+  - {fileID: 11400000, guid: 368a07c7d42f81c42a1012f3551e5380, type: 2}
+  - {fileID: 11400000, guid: 3ffa18fab09224c4881d76ceae9b89ff, type: 2}
+  - {fileID: 11400000, guid: 8d4adf932e06fdc47af50fbc1647baa8, type: 2}
+  - {fileID: 11400000, guid: d3c9903e3d9fe6e429358984dc77cbf0, type: 2}
+  - {fileID: 11400000, guid: fc6f648b32bab86488f9f67c9f82e2a6, type: 2}
+  - {fileID: 11400000, guid: 9d30c49955793d04dbb4956c77d096df, type: 2}
+  - {fileID: 11400000, guid: 22df04c19a18dd3428ed9ce8a7d29a2e, type: 2}
+  - {fileID: 11400000, guid: ce73ec8e2730f744ea9c180339b05515, type: 2}
+  - {fileID: 11400000, guid: 5fed22749e1584544b9093f939a4f69d, type: 2}
   prCharla: {fileID: 7594221686072725099, guid: 8d3b3350d12a19146b0f9a48d7856bf4, type: 3}
   padre: {fileID: 2115927097}
 --- !u!1 &798128558
@@ -2487,7 +2503,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 553954536}
   m_Direction: 0
   m_Value: 1
-  m_Size: 0.99999994
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

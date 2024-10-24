@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
+  m_Name: Charla10
+  m_EditorClassIdentifier: 
+  imagen: {fileID: 21300000, guid: 9c1551964342868499d647e65f71c5b3, type: 3}
+  nombre: 'Jose y Cami: Dejando el mundo un poco mejor de lo que lo encontramos'
+  descipcion: "Jose Vergara y Camilo Quintero creen firmemente en el amor espont\xE1neo
+    y transparente. Su contenido est\xE1 dirigido a sus 795.000 seguidores en Instagram
+    y est\xE1 cargado de bromas y muestras del d\xEDa a d\xEDa de una pareja LGTBQ+
+    Latinoamericana que ha enamorado a muchos. Coincidieron en la Colegiatura donde
+    alcanzaron sus estudios en publicidad y dise\xF1o gr\xE1fico y m\xE1s adelante
+    conformaron una familia. Hoy en d\xEDa, defienden sus posturas frente a la libertad,
+    la visibilidad y la lucha de la comunidad LGTBIQ+."
+  hora: 17:00 18:00 PM
+  Lugar: 
