@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
+  m_Name: Charla11
+  m_EditorClassIdentifier: 
+  imagen: {fileID: 21300000, guid: 593258fedd0838443bf1ad9c6e7683e8, type: 3}
+  nombre: "Octavio Islas - Cuarta revoluci\xF3n industrial e IA"
+  descipcion: "Es un destacado acad\xE9mico y experto en comunicaci\xF3n digital.
+    Fundador de la revista cient\xEDfica Raz\xF3n y Palabra, la primera en tratar
+    temas de comunicaci\xF3n en el ciberespacio iberoamericano. Ha dirigido m\xE1s
+    de 17 libros y publicado m\xE1s de 85 art\xEDculos en revistas indexadas, destacando
+    en el campo de la investigaci\xF3n cient\xEDfica. Ha asesorado a instituciones
+    como la Presidencia de la Rep\xFAblica de M\xE9xico y Pemex."
+  hora: 08:00 09:00 AM
+  Lugar: 

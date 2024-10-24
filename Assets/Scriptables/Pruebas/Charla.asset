@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
+  m_Name: Charla
+  m_EditorClassIdentifier: 
+  imagen: {fileID: -865570267, guid: c8d11f6b77f09754ba39380246ba8cd8, type: 3}
+  nombre: Charla sobre dormir bien
+  descipcion: "Experto en sue\xF1os"
+  hora: 8:00 10:00 AM
+  Lugar: 14 - 213

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
+  m_Name: Charla13
+  m_EditorClassIdentifier: 
+  imagen: {fileID: 21300000, guid: b3e4839c78e71f1458e005409323869f, type: 3}
+  nombre: 'Corre mi Tierra: Todo comunica'
+  descipcion: "Cuando dicen \u201CEmpezar de cero otra vez\u201D, \u201CNos tom\xF3
+    25 a\xF1os ser exitosos de la noche a la ma\xF1ana\u201D o \u201CCorre mi tierra\u201D
+    estos dos l\xEDderes disruptivos del mundo del running y el ejercicio f\xEDsico
+    ofrecen su propio testimonio de correr por la vida siguiendo los sue\xF1os. Cristy
+    y Jao han sabido comunicar, contar su historia y motivar a miles de personas
+    para ponerse los tennis y salir a correr. Runners de todo Colombia y muchos pa\xEDses
+    vecinos con sue\xF1os de maratonistas participan cada a\xF1o en sus carreras
+    en diferentes ciudades del pa\xEDs."
+  hora: 10:30 11:15 AM
+  Lugar: 
