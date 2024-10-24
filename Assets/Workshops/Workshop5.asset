@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop5
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: e8da8466724b7b745928198703534a7a, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: "Baud\xF3 Agencia p\xFAblica (Pereira)"
+  descipcion: Innovar para narrar historias
   hora: 
-  Lugar: 
+  Lugar: Bloque 11, auditorio 2

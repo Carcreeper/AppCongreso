@@ -846,8 +846,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fc6f648b32bab86488f9f67c9f82e2a6, type: 2}
   - {fileID: 11400000, guid: 9d30c49955793d04dbb4956c77d096df, type: 2}
   - {fileID: 11400000, guid: 22df04c19a18dd3428ed9ce8a7d29a2e, type: 2}
-  - {fileID: 11400000, guid: ce73ec8e2730f744ea9c180339b05515, type: 2}
-  - {fileID: 11400000, guid: 5fed22749e1584544b9093f939a4f69d, type: 2}
   prCharla: {fileID: 7594221686072725099, guid: 8d3b3350d12a19146b0f9a48d7856bf4, type: 3}
   padre: {fileID: 2115927097}
 --- !u!1 &798128558
@@ -2502,7 +2500,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 553954537}
   m_HandleRect: {fileID: 553954536}
   m_Direction: 0
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:

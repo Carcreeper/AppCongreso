@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop2
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: 1ab31eec4f834124e94961616053e6fb, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: Karina Esterling
+  descipcion: Universo femenino
   hora: 
-  Lugar: 
+  Lugar: "Sal\xF3n 11-304"

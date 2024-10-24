@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop16
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: e8da8466724b7b745928198703534a7a, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: Liz Bazurto
+  descipcion: 'Crea tu primera billetera Crypto. Paso a paso '
   hora: 
-  Lugar: 
+  Lugar: CCD

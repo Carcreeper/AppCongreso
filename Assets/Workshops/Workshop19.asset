@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Workshop19
   m_EditorClassIdentifier: 
   imagen: {fileID: -905935116, guid: e8da8466724b7b745928198703534a7a, type: 3}
-  nombre: 
-  descipcion: 
+  nombre: Monica Ledezma
+  descipcion: "Fotograf\xEDa, creatividad y arte"
   hora: 
-  Lugar: 
+  Lugar: "Sal\xF3n 10-116 (Tipo taller)"
