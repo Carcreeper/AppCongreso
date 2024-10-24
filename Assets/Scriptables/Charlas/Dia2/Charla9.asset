@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
+  m_Name: Charla9
+  m_EditorClassIdentifier: 
+  imagen: {fileID: 21300000, guid: 8f3407388948e474a88798d85894c5f0, type: 3}
+  nombre: "Liz Bazurto: Contra todo pron\xF3stico: C\xF3mo comunicar, vender tu historia
+    y triunfar."
+  descipcion: "Es una actriz, ingeniera y periodista de Medell\xEDn, reconocida por
+    su versatilidad y creatividad. Creadora del personaje de ficci\xF3n Frin\xE9,
+    una hetaira griega que explora temas de sexualidad y modernidad, es tambi\xE9n
+    escritora y actriz de la webserie Frin\xE9, la m\xE1s turbada, disponible en
+    YouTube. Apasionada por la tecnolog\xEDa digital y las posibilidades del Internet,
+    ha trabajado en diversas producciones de cine y televisi\xF3n."
+  hora: 14:00 15:00 PM
+  Lugar: 

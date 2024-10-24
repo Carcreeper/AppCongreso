@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6386755e098735a47a591e85c7969fcc, type: 3}
+  m_Name: Charla8
+  m_EditorClassIdentifier: 
+  imagen: {fileID: 21300000, guid: 06c01f4543e656341a30fb76751a7f63, type: 3}
+  nombre: "SaraBe Vivimos como narramos y viceversa: Un espacio para hablar como
+    el storytelling transforma lo que somos, pero tambi\xE9n lo que hacemos desde
+    las an\xE9cdotas de vida de SaraBe"
+  descipcion: "Sara Be se define a s\xED misma como un alma creativa. Es comunicadora
+    social y periodista de profesi\xF3n. Ha dedicado su carrera a acompa\xF1ar procesos
+    de creaci\xF3n y comunicaci\xF3n en empresas de todos los tama\xF1os y de m\xFAltiples
+    sectores. Aportando siempre una visi\xF3n desde el storytelling, la imaginaci\xF3n
+    y la auto-exploraci\xF3n. Es, adem\xE1s, autora de tres libros, autopublicados,
+    de los que ha vendido m\xE1s de 10.000 copias."
+  hora: 11:15 12:15 PM
+  Lugar: 
