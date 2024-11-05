@@ -13,14 +13,9 @@ MonoBehaviour:
   m_Name: Charla2
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: b56ff651dccb2454eab0a4f6d35e9acb, type: 3}
-  nombre: 'Aleja y la Grua: Creando y conectando desde la cotidianidad'
-  descipcion: "Son una pareja de esposos llenos de carisma y empat\xEDa que han sido
-    la sensaci\xF3n en las redes sociales a trav\xE9s de espacios para conversar
-    temas profundos o simples de la vida, posicion\xE1ndose con el exitoso podcast
-    \"Aleja y la Gr\xFAa\" de m\xE1s de 150 episodios y alcanzando el top #10 en
-    los m\xE1s populares de Spotify, siendo parte de los m\xE1s escuchados en Colombia.
-    Desde hace 6 a\xF1os que hacen videos en YouTube de los cuales la mayor\xEDa
-    acumulan hasta 100 mil reproducciones. El humor que los caracteriza lo disfruta
-    una comunidad creciente de m\xE1s de 130 mil seguidores."
+  nombre: Aleja y la Grua
+  descipcion: Creando y conectando desde la cotidianidad
   hora: 11:00 11:45 AM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 1

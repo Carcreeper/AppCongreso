@@ -13,13 +13,9 @@ MonoBehaviour:
   m_Name: Charla5
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: 5a098718ec3036a4a909907730842aa9, type: 3}
-  nombre: "Mario Riorda: El fin de la comunicaci\xF3n pol\xEDtica tal y como la conoc\xEDamos"
-  descipcion: "Polit\xF3logo y activista de la comunicaci\xF3n pol\xEDtica. Presidente
-    de la Asociaci\xF3n Latinoamericana de Investigadores en Campa\xF1as Electorales
-    (ALICE). Director de la Maestr\xEDa en Comunicaci\xF3n Pol\xEDtica de la Universidad
-    Austral. Ha participado en m\xE1s de 170 procesos electorales y asesorado a m\xE1s
-    de 80 gobiernos en Am\xE9rica Latina. Consultor para organismos multilaterales.
-    Profesor de posgrado en numerosas universidades de Am\xE9rica Latina, Espa\xF1a
-    y EEUU. Autor de 18 libros."
+  nombre: Mario Riorda
+  descipcion: "El fin de la comunicaci\xF3n pol\xEDtica tal y como la conoc\xEDamos"
   hora: 08:00 09:00 AM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 2

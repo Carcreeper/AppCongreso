@@ -13,12 +13,9 @@ MonoBehaviour:
   m_Name: Charla15
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: f771e11580bcad846909ac772f77ea7d, type: 3}
-  nombre: "Laura Llano: Un internet m\xE1s positivo es posible"
-  descipcion: "Es una experta en ventas con amplia experiencia en tecnolog\xEDa digital
-    y mercados internacionales. Actualmente, se desempe\xF1a como Sales Manager para
-    Am\xE9rica Latina en Pinterest, donde se enfoca en soluciones creativas y estrat\xE9gicas
-    que generan valor. Su carrera comenz\xF3 en India, donde a los 21 a\xF1os adquiri\xF3
-    una visi\xF3n global trabajando con empresas de tecnolog\xEDa SaaS y digital.
-    Ha liderado equipos en mercados clave como Colombia, Chile, Argentina y M\xE9xico."
+  nombre: Laura Llano
+  descipcion: "Un internet m\xE1s positivo es posible"
   hora: 14:00 15:00 AM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 3

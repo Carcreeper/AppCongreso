@@ -13,12 +13,9 @@ MonoBehaviour:
   m_Name: Charla1
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: 91b9cdf73d9e95a43ad2e8d90e106d24, type: 3}
-  nombre: "Alejandro Salazar: La Estrategia Emergente. La muerte del Plan Estrat\xE9gico"
-  descipcion: "Es considerado un verdadero intelectual transformador del pensamiento
-    y la gesti\xF3n empresarial. Desde su liderazgo es el Fundador de la firma Breakthrough,
-    creador de la \u201CEstrategia Emergente\u201D y hoy brilla como el m\xE1s disruptivo
-    \u201Cformador de estrategias\u201D con logros exitosos en m\xE1s de 250 empresas
-    como Argos, Celsia, Postob\xF3n, Odinsa y ha contribuido no solo a la creaci\xF3n
-    de estrategias corporativas potentes sino al ascenso de las multilatinas colombianas."
+  nombre: Alejandro Salazar
+  descipcion: "La Estrategia Emergente. La muerte del Plan Estrat\xE9gico"
   hora: 9:30 10:45 AM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 1

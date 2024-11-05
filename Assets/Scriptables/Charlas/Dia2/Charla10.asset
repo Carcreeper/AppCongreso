@@ -13,13 +13,9 @@ MonoBehaviour:
   m_Name: Charla10
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: 9c1551964342868499d647e65f71c5b3, type: 3}
-  nombre: 'Jose y Cami: Dejando el mundo un poco mejor de lo que lo encontramos'
-  descipcion: "Jose Vergara y Camilo Quintero creen firmemente en el amor espont\xE1neo
-    y transparente. Su contenido est\xE1 dirigido a sus 795.000 seguidores en Instagram
-    y est\xE1 cargado de bromas y muestras del d\xEDa a d\xEDa de una pareja LGTBQ+
-    Latinoamericana que ha enamorado a muchos. Coincidieron en la Colegiatura donde
-    alcanzaron sus estudios en publicidad y dise\xF1o gr\xE1fico y m\xE1s adelante
-    conformaron una familia. Hoy en d\xEDa, defienden sus posturas frente a la libertad,
-    la visibilidad y la lucha de la comunidad LGTBIQ+."
+  nombre: Jose y Cami
+  descipcion: Dejando el mundo un poco mejor de lo que lo encontramos
   hora: 17:00 18:00 PM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 2

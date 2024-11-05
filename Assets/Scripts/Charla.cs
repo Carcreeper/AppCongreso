@@ -8,9 +8,11 @@ public class Charla : MonoBehaviour
     public Text txtDescripcion;
     public ScObjCharla datos;
 
+	int dia, id;
+
 	private void Start()
 	{
-		Inicializar();
+		//Inicializar();
 	}
 
 	public void Inicializar(ScObjCharla _datos)
@@ -18,8 +20,16 @@ public class Charla : MonoBehaviour
         datos = _datos;
         Inicializar();
 	}
+	public void Inicializar(ScObjCharla _datos, int _dia, int _id)
+	{
+		datos = _datos;
+		dia = _dia;
+		id = _id;
+		Inicializar();
+	}
 
-    void Inicializar()
+
+	void Inicializar()
 	{
 		if (datos != null)
 		{
@@ -37,6 +47,6 @@ public class Charla : MonoBehaviour
 
 	public void CargarPreview()
 	{
-		UIDetalleCharla.singleton.Previsualizar(datos); 
+		UIDetalleCharla.singleton.Previsualizar(datos, id); 
 	}
 }
