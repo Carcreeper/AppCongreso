@@ -13,14 +13,9 @@ MonoBehaviour:
   m_Name: Charla14
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: 9748dd03de7b476479e0ebd5cc875791, type: 3}
-  nombre: "Marce la recicladora: Redes Sociales con prop\xF3sito"
-  descipcion: "Sara Samaniego, la creadora del personaje \"Marce la recicladora\",
-    es una joven Comunicadora Social y activista ambiental admirada y querida por
-    miles en las redes sociales. Su labor excepcional a favor del medio ambiente
-    pretende educar en temas como la separaci\xF3n de residuos, h\xE1bitos amigables
-    con el cuidado ambiental y el valor del trabajo de los \"reciclamores\". Ha recibido
-    importantes reconocimientos como: \"mejor historia de impacto\" por la Asamblea
-    de la Juventud, en New York, el Premio Joven Talento Nacional y ha representado
-    a Colombia en M\xFAnich, Alemania."
+  nombre: Marce la recicladora
+  descipcion: "Redes Sociales con prop\xF3sito"
   hora: 11:15 12:15 PM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 3

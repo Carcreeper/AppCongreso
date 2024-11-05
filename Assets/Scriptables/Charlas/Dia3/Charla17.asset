@@ -13,13 +13,9 @@ MonoBehaviour:
   m_Name: Charla17
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: 6afc3ce4959048548b8c94b505b95eec, type: 3}
-  nombre: "Juan Corcione: Mitos y verdades sobre las im\xE1genes digitales"
-  descipcion: "Juan Sebasti\xE1n Corcione es un experto en la creaci\xF3n de contenido
-    con m\xE1s de 15 a\xF1os de experiencia en la industria cultural y del entretenimiento.
-    Actualmente es Gerente de Servicios al Artista en Sony Music Colombia y miembro
-    del colectivo Freaky. Ha sido reconocido por su labor en proyectos como \"Las
-    Stories\"; del Banco de la Rep\xFAblica y Monetta. Conferencista en im\xE1genes
-    digitales y creatividad, tambi\xE9n es curador de contenidos de entretenimiento
-    y colaborador en sensacine.com.co."
+  nombre: Juan Corcione
+  descipcion: "Mitos y verdades sobre las im\xE1genes digitales"
   hora: 17:00 18:00 PM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 3

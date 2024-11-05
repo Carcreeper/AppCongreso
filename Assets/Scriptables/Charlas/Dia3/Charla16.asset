@@ -13,13 +13,9 @@ MonoBehaviour:
   m_Name: Charla16
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: 49b385295f37788428cb19cfc2f26ea7, type: 3}
-  nombre: "Diego Salazar: Comunicaci\xF3n, liderazgo y desarrollo personal"
-  descipcion: "Es un profesional 360. En su b\xFAsqueda del fortalecimiento del liderazgo,
-    la comunicaci\xF3n y el desarrollo personal; invita a las personas y las empresas
-    a vivir una vida con sentido y prop\xF3sito. Adem\xE1s, en \u201CEl Podcast de
-    Diego Salazar\u201D conecta esas tres pasiones con las personas. Es Comunicador
-    Relacionista Corporativo y Mag\xEDster en Educaci\xF3n, se ha formado en el programa
-    en Alta Gerencia L\xEDderes de la Universidad de La Sabana \u2013 INALDE Business
-    School. Adicional, es speaker, docente y formador."
+  nombre: Diego Salazar
+  descipcion: "Comunicaci\xF3n, liderazgo y desarrollo personal"
   hora: 15:45 16:40 PM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 3

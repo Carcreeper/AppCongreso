@@ -11,4 +11,9 @@ public class Escenas : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void ArbrirURL(string url)
+	{
+        Application.OpenURL(url);
+	}
 }

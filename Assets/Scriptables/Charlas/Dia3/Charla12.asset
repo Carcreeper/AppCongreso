@@ -13,13 +13,9 @@ MonoBehaviour:
   m_Name: Charla12
   m_EditorClassIdentifier: 
   imagen: {fileID: 21300000, guid: 1029afe76907ff54db35cf351017c223, type: 3}
-  nombre: "Econom\xEDa para la Pipol: un hijo creativo del Paro Nacional 2021"
-  descipcion: "Es una reconocida periodista con especializaci\xF3n en econom\xEDa,
-    con una destacada trayectoria en prensa enfocada en finanzas, negocios y macroeconom\xEDa.
-    Ha sido parte de medios de prestigio como Forbes, La Rep\xFAblica, Revista Dinero
-    y Cambio Colombia. Es cofundadora del medio digital Econom\xEDa para la Pipol,
-    una plataforma dedicada a explicar de manera clara y accesible los temas econ\xF3micos
-    m\xE1s complejos, con el objetivo de democratizar la informaci\xF3n financiera
-    para el p\xFAblico general."
+  nombre: "Econom\xEDa para la Pipol"
+  descipcion: Un hijo creativo del Paro Nacional 2021
   hora: 09:00 10:00 AM
-  Lugar: 
+  Lugar: Teatro
+  tipo: 0
+  dia: 3
